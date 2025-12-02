@@ -2,7 +2,6 @@
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
-  "infinite_arrow": true,
   "enable_ligature": true,
   "ttfautohint_param": {},
   "weight_mapping": {
@@ -68,7 +67,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "mono": true,
+    "mono": false,
     "propo": false,
     "use_font_patcher": false,
     "glyphs": [
